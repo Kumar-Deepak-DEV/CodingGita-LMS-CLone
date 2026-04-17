@@ -28,8 +28,8 @@ export const leave =[
 
 export const students = [
   {
-    uid: "108429",
-    password: "12345",
+    uid: "109429",
+    password: "54321",
     name: "Deepak Kumar",
     email: "kumar.deepk.cg.s@gmail.com",
     mobile: "9472646841",
